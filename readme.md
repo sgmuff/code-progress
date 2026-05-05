@@ -33,4 +33,4 @@ I'm open to feedback on my code and projects! Feel free to:
 
 Thank you for visiting my repository, and I hope you find it helpful or inspiring in your own coding journey!
 
-If you have any questions or want to connect, feel free to reach out on [LinkedIn]([url](https://www.linkedin.com/in/stephen-muff/))! Happy coding!
+If you have any questions or want to connect, feel free to reach out on LinkedIn (https://www.linkedin.com/in/stephen-muff/)! Happy coding!
