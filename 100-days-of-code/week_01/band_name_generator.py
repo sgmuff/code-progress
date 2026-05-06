@@ -1,4 +1,4 @@
-# The point of this project is to practice getting user input and concatenating strings. 
+# The point of this project is to practice getting user input and concatenating strings.
 
 #Start with a greeting message. Using. \n will create a new line after the message, so the user input will be on a new line.
 print("Welcome to the Band Name Generator!\n")
