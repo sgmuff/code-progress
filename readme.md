@@ -1,36 +1,51 @@
 # My Coding Journey 🚀
 
-Welcome to my coding journey! This repository is a collection of my projects, experiments, and learning experiences in the world of programming. Here, you'll find a variety of code snippets, tutorials, and resources that I've found helpful along the way.
+Welcome to my coding journey! This repository is a living collection of my projects, experiments, and learning experiences as I transition from a data privacy professional to a technically proficient builder.
 
 ## Background
 
-I am a data privacy professional who used to report to Legal but now reports to Security, which has introduced me to the world of coding (except for a few high school classes in VisualBasic decades ago and some dabbling). Learning to code allows me to bridge the gap between privacy policy and technology, enabling me to design more effective and secure systems. My journey into programming is driven by the need to understand the technical underpinnings of data privacy laws, cybersecurity concepts, and privacy-preserving software development.
+I am a data privacy professional who moved from reporting to Legal to Security. This shift exposed the gap between policy and implementation, driving me to learn how to build the systems I regulate. While I had a few Visual Basic classes in high school decades ago, this is my first serious dive into programming.
 
-## Where I'm Starting 📚
+My goal isn't just to "learn to code"—it's to acquire the technical fluency needed to design secure, privacy-preserving systems and to critically evaluate the technology behind data laws.
 
-I'm using Udemy courses and the Treehouse platform to begin. I'm starting with Python. It seems to be necessary to learn Python to understand the basics of programming and to be able to work with data, which is crucial for my field. Python's versatility and readability make it an excellent choice for beginners, and it has a strong community that provides ample resources for learning.
+## The Roadmap 🗺️
+
+I am treating this as a multi-stage journey. **Stage 1** is mastering Python fundamentals and data manipulation. Future stages will involve expanding to other languages, frameworks, and specialized domains like AI/ML security.
+
+### Current Focus: Python Foundations
+
+I am currently working through the **100 Days of Code: Complete Professional Python Bootcamp** (App Brewery/Angela Yu). This course serves as my structured entry point, covering:
+
+*   **Core Logic:** Variables, control flow, loops, functions, and error handling.
+*   **Data Structures:** Lists, dictionaries, and data manipulation with Pandas.
+*   **Automation & Web:** APIs, web scraping, browser automation, and building desktop GUIs.
+*   **Advanced Concepts:** OOP, database integration, and statistical analysis.
+
+*Note: Once I complete this foundation, I plan to branch out into other languages and frameworks relevant to cybersecurity and privacy engineering.*
 
 ## Goals 🎯
 
-- Build proficiency in Python and expand to other languages/frameworks.
-- Develop practical skills for data handling, privacy-preserving solutions, and cybersecurity.
-- Create projects that demonstrate technical implementations of data privacy concepts.
-- Share knowledge and inspire others on similar learning paths.
-- Eventually learn about the technical aspects of machine learning and AI to understand their implications for data privacy and security.
+*   **Technical Fluency:** Bridge the gap between privacy policy and technical implementation.
+*   **Security-First Mindset:** Learn to write code that is inherently secure and respects user privacy.
+*   **Data Mastery:** Gain the ability to analyze, visualize, and protect large datasets.
+*   **Future-Proofing:** Understand the mechanics of AI/ML to better assess their privacy implications.
+*   **Community:** Share my progress, mistakes, and insights to inspire others making similar career pivots.
 
 ## Projects 🛠️
 
-As I progress, this repository will include:
-- **Completed Projects**: Full applications and tools.
-- **Exercises**: Practice code from tutorials and courses.
-- **Notes/Resources**: Documentation, useful links, and learning materials.
+This repository will evolve as I progress. Currently, it will house:
+
+*   **Bootcamp Exercises:** Daily challenges and mini-projects from the 100 Days of Code course.
+*   **Experimental Scripts:** Small tools built to solve immediate privacy or workflow problems.
+*   **Future Portfolio:** Larger, independent projects (e.g., privacy-focused automation tools, data analysis dashboards) once I move beyond the basics.
 
 ## Feedback 💬
 
-I'm open to feedback on my code and projects! Feel free to:
-- Open issues for questions or suggestions.
-- Share your thoughts on my learning journey.
+I am actively learning and welcome constructive criticism.
 
-Thank you for visiting my repository, and I hope you find it helpful or inspiring in your own coding journey!
+*   Open issues for code reviews or architectural suggestions.
+*   Share resources or alternative approaches you've found helpful.
 
-If you have any questions or want to connect, feel free to reach out on LinkedIn (https://www.linkedin.com/in/stephen-muff/)! Happy coding!
+Thank you for stopping by. Whether you are here to learn, collaborate, or just watch a privacy pro learn to code, I hope you find something useful.
+
+Connect with me on LinkedIn (https://www.linkedin.com/in/stephen-muff) if you'd like to discuss the intersection of privacy and engineering. Happy coding!
