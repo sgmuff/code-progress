@@ -50,3 +50,13 @@ print(True)   # True
 print(False)  # False
 print(1 > 0)  # True
 print(1 < 0)  # False
+
+# Number manipulation
+bmi = 84 / (1.75 * 2)  # BMI calculation
+print(bmi)
+print(int(bmi))  # Convert to integer (truncates the decimal part
+print(round(bmi))  # Round to the nearest integer
+print(round(bmi, 2))  # Round to 2 decimal places
+
+# You would not use an f-string to format a number for calculations, but it is useful for displaying results in a readable format.
+print(f"Your BMI is {bmi:.2f}")  # Using f-string to format the output to 2 decimal places
