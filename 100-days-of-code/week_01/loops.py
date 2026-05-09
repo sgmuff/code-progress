@@ -39,3 +39,5 @@ for number_total in range(1, 101):
     total += number_total
     # After the loop has finished, print the total sum of numbers from 1 to 100.
 print(total)
+
+#For vs While? For loops are typically used when the number of iterations is known beforehand, while while loops are used when the number of iterations is not known and the loop needs to continue until a certain condition is met. For example, if you want to iterate through a list of items, a for loop would be more appropriate. If you want to keep asking a user for input until they provide valid input, a while loop would be more suitable.
